@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 2 hours.
+> I have been working on this for 3 hours and 30 minutes.
 
 ### July 20th, 2025
 
@@ -20,3 +20,9 @@ created_at: "2025-07-20"
 10:15 AM: I gave up last night. But I've been working for a bit and it seems that a sufficient divider is 100K and 200K (2 100K resistors because that's all I have). So next step is to try out the MQ2. Heard it takes a bit to warm up so I'll give it that. It also smells a bit when I turn it on, but apparently that's because it's powered by a heating element and I haven't used it before. _Technically_ you're supposed to give it about 3 days to warm up completely, but I don't have that kind of time unfortunately. Will give it a little bit though.
 
 12:00 PM: So I've gotten it working... on an Arduino Mega 2560. My voltage divider doesn't seem to be working right. I feel like maybe I could risk it with just hooking the MQ2 directly up to the Pi Pico, because I don't think it's gonna get all the way to 5V, but I don't think I should. There's one, extremely janky option I can think of, which would be using a Raspberry Pi Zero instead of a Pico, and using an OTG cable do serial communication. Actually, wait, I just checked Amazon, there's a level shifter that should arrive by tomorrow! I'll order that and get it tomorrow, and for now I'll work on other stuff.
+
+12:30 PM: So I got the DHT11 sensor working on the Pico, but now I'm encountering an issue where something on my PC is causing the Pico to reboot every second. Means I'm gonna have to use my crappy MacBook. Sigh. It's working somewhat. I've got basic code that sends the data to Adafruit IO every 15 seconds. Stopping work until probably around 4 PM.
+
+<img width="508" height="307" alt="image" src="https://github.com/user-attachments/assets/b134c006-8ad5-4d4f-bc99-a6a12eb1fc4f" />
+
+> The graph over time of the temp (celsius) and humidity. As you can see, there hasn't been much time nor change.
