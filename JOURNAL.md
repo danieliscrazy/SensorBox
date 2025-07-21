@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 4 hours and 30 minutes.
+> I have been working on this for 5 hours.
 
 ### July 20th, 2025
 
@@ -29,4 +29,6 @@ created_at: "2025-07-20"
 
 4:30 PM: Took a bit of a break. Temperature now reports in Fairenheit! Trying to now work on the LCD. Only issue with that is, _I can't find my goddamn breadboards!_ I can't interface with it yet! I'm counting time for looking for my breadboards, don't dock points for that please. Wait. Nevermind. Literally 60 seconds after typing the last thing I found 2 breadboards. They were with my soldering stuff and I just forgot. 
 
-5:00 PM: Found a length of solid core wire from Undercity when unpacking, feel really bad but then again... this is genuinely some of the cleanest wiring I've ever done, which is good because this needs to be relatively flat. Genuinely want to get more, hope that this is enough for the whole project. It is a bit tedious though, so I'm gonna take a bit of a break
+5:00 PM: Found a length of solid core wire from Undercity when unpacking, feel really bad but then again... this is genuinely some of the cleanest wiring I've ever done, which is good because this needs to be relatively flat. Genuinely want to get more, hope that this is enough for the whole project. It is a bit tedious though, so I'm gonna take a bit of a break.
+
+5:30 PM: I lied. No rest for the weary. 
