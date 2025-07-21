@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 1 hour.
+> I have been working on this for 1 hour and 30 minutes.
 
 ### July 20th, 2025
 
@@ -14,3 +14,7 @@ created_at: "2025-07-20"
 5:00 PM: Trying to just try out the MQ2, and already ran into an issue. I have very few female wires, all of my sensors have pin headers out (90 degree ones that won't fit on a breadboard), and the ones that I am using are currently being used by my other project. It's gonna get a PCB soon (as soon as it arrives at my house), but as of right now it doesn't have one. Debating whether or not to take them out for this project. Looking more like I'll have to.
 
 5:15 PM: I can't look at the time "5:15 PM" without thinking of the second LEGO Movie. So I did end up ripping the wires out, but then I realized something. The MQ2 is 5V, and it's analog. The Pi Pico's GPIO is 3.3V. In order to run it properly, I'd need to use resistors, but I don't have convenient resistor sizes. Hm. 
+
+### July 21st, 2025
+
+10:15 AM: I gave up last night. But I've been working for a bit and it seems that a sufficient divider is 100K and 200K (2 100K resistors because that's all I have). So next step is to try out the MQ2. Heard it takes a bit to warm up so I'll give it that. It also smells a bit when I turn it on, but apparently that's because it's powered by a heating element and I haven't used it before. _Technically_ you're supposed to give it about 3 days to warm up completely, but I don't have that kind of time unfortunately. Will give it a little bit though.
