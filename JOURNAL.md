@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 1 hour and 30 minutes.
+> I have been working on this for 2 hours.
 
 ### July 20th, 2025
 
@@ -18,3 +18,5 @@ created_at: "2025-07-20"
 ### July 21st, 2025
 
 10:15 AM: I gave up last night. But I've been working for a bit and it seems that a sufficient divider is 100K and 200K (2 100K resistors because that's all I have). So next step is to try out the MQ2. Heard it takes a bit to warm up so I'll give it that. It also smells a bit when I turn it on, but apparently that's because it's powered by a heating element and I haven't used it before. _Technically_ you're supposed to give it about 3 days to warm up completely, but I don't have that kind of time unfortunately. Will give it a little bit though.
+
+12:00 PM: So I've gotten it working... on an Arduino Mega 2560. My voltage divider doesn't seem to be working right. I feel like maybe I could risk it with just hooking the MQ2 directly up to the Pi Pico, because I don't think it's gonna get all the way to 5V, but I don't think I should. There's one, extremely janky option I can think of, which would be using a Raspberry Pi Zero instead of a Pico, and using an OTG cable do serial communication. Actually, wait, I just checked Amazon, there's a level shifter that should arrive by tomorrow! I'll order that and get it tomorrow, and for now I'll work on other stuff.
