@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 3 hours and 30 minutes.
+> I have been working on this for 4 hours and 30 minutes.
 
 ### July 20th, 2025
 
@@ -26,3 +26,7 @@ created_at: "2025-07-20"
 <img width="508" height="307" alt="image" src="https://github.com/user-attachments/assets/b134c006-8ad5-4d4f-bc99-a6a12eb1fc4f" />
 
 > The graph over time of the temp (celsius) and humidity. As you can see, there hasn't been much time nor change.
+
+4:30 PM: Took a bit of a break. Temperature now reports in Fairenheit! Trying to now work on the LCD. Only issue with that is, _I can't find my goddamn breadboards!_ I can't interface with it yet! I'm counting time for looking for my breadboards, don't dock points for that please. Wait. Nevermind. Literally 60 seconds after typing the last thing I found 2 breadboards. They were with my soldering stuff and I just forgot. 
+
+5:00 PM: Found a length of solid core wire from Undercity when unpacking, feel really bad but then again... this is genuinely some of the cleanest wiring I've ever done, which is good because this needs to be relatively flat. Genuinely want to get more, hope that this is enough for the whole project. It is a bit tedious though, so I'm gonna take a bit of a break
