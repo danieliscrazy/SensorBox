@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 5 hours.
+> I have been working on this for 6 hours.
 
 ### July 20th, 2025
 
@@ -32,3 +32,9 @@ created_at: "2025-07-20"
 5:00 PM: Found a length of solid core wire from Undercity when unpacking, feel really bad but then again... this is genuinely some of the cleanest wiring I've ever done, which is good because this needs to be relatively flat. Genuinely want to get more, hope that this is enough for the whole project. It is a bit tedious though, so I'm gonna take a bit of a break.
 
 5:30 PM: I lied. No rest for the weary. 
+
+### July 31st, 2025
+
+10:00 AM: Talk about cutting it close! Currently in a car, so not able to do the most in depth work. I'm fairly sure I got the LCD working, but I don't think I have the LCD... working. Some pixels only show up when the display is darker, some only show up when it's lighter. Worried it's the module being damaged. Actually, that's what it is, grabbed a different one and it worked. Gonna work on getting the humidity and temp to display on the LCD now. I also should note I have the level shifter now, so after I get humidity and temp working with the LCD, I'll try to test the MQ2, although I might not get the most accurate results, being in a car.
+
+11:00 AM: Got it displaying temp and humidity on the LCD! Currently trying to figure out what resistance needs to be for the backlight, because my potentiometer is crap. Sorry I can't get pictures or code right now.
