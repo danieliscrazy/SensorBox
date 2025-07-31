@@ -38,3 +38,7 @@ created_at: "2025-07-20"
 10:00 AM: Talk about cutting it close! Currently in a car, so not able to do the most in depth work. I'm fairly sure I got the LCD working, but I don't think I have the LCD... working. Some pixels only show up when the display is darker, some only show up when it's lighter. Worried it's the module being damaged. Actually, that's what it is, grabbed a different one and it worked. Gonna work on getting the humidity and temp to display on the LCD now. I also should note I have the level shifter now, so after I get humidity and temp working with the LCD, I'll try to test the MQ2, although I might not get the most accurate results, being in a car.
 
 11:00 AM: Got it displaying temp and humidity on the LCD! Currently trying to figure out what resistance needs to be for the backlight, because my potentiometer is crap. Sorry I can't get pictures or code right now.
+
+4:30 PM: I really need to lock in. Got LCD and temp + humidity working with Adafruit IO. Now working on MQ2. 
+
+5:30 PM: Having... issues. Not getting consistent readings from the MQ2. I think it's issues with the level shifter, it works fine on an Arduino Mega. Need to leave for about an hour.
