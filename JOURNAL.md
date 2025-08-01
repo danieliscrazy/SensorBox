@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 10 hours.
+> I have been working on this for 11 hours.
 
 ### July 20th, 2025
 
@@ -57,4 +57,16 @@ created_at: "2025-07-20"
 
 > The setup!
 
+### August 1st, 2025
 
+9:45 AM: I know what you're thinking. "Daniel, why the hell are you still working on this? It's August 1st!" Well, I couldn't stay awake last night. Because I knew that I couldn't work any more, and knowing that review wouldn't happen for an absolute minimum of a day, I submitted my project without CAD, so I'm gonna do it right now. I'm gonna work until 11 (Daydream kickoff call), and if I still have work to do, I'll keep working at 12.
+
+10:15 AM: Made the bottom part of the case, which is relatively simple. Currently trying to figure out where I want the DHT11 to go. I have a case thing I made before that should fit it, just need to figure out where to put it.
+
+<img width="919" height="602" alt="image" src="https://github.com/user-attachments/assets/82deb500-09cd-43b0-91b3-f9f7c385d6eb" />
+
+> Bottom case!
+
+10:45 AM: Made a really basic top case part, with a screen cut out. Need to add holes for wires, and need to add the DHT11. I really want to find a way to polish this design more, because with the MQ2 having to be scrapped, and with it the buzzer scrapped as well, this project doesn't feel that deserving of 6 points. I'll continue to brainstorm, but I have to go to the Daydream kickoff call now.
+
+<img width="1131" height="677" alt="image" src="https://github.com/user-attachments/assets/f73b5462-b681-4e9d-b2b0-8431ec7507a0" />
