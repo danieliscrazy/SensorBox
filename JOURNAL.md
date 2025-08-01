@@ -5,7 +5,7 @@ description: "A Pi Pico W powered sensor box for my room!"
 created_at: "2025-07-20"
 ---
 
-> I have been working on this for 6 hours.
+> I have been working on this for 10 hours.
 
 ### July 20th, 2025
 
@@ -42,3 +42,19 @@ created_at: "2025-07-20"
 4:30 PM: I really need to lock in. Got LCD and temp + humidity working with Adafruit IO. Now working on MQ2. 
 
 5:30 PM: Having... issues. Not getting consistent readings from the MQ2. I think it's issues with the level shifter, it works fine on an Arduino Mega. Need to leave for about an hour.
+
+8:00 PM: MQ2 isn't working. I'm not doing the greatest, and I don't have much time before the deadline. I'm scrapping the MQ2 unfortunately, and I'm gonna redo some of the wiring to make it go flat, and work on 3D modeling. Also, if you're paying close attention to commits you may notice a 2 hour discrepancy. I forgot to log time for 4:30 to 5:30, and I did do work from 11:00 to 12:00, I just didn't make a journal entry (most of that was wiring).
+
+9:30 PM: I'm tired and distracted. I modeled and placed all the parts. Now case making time!
+
+<img width="955" height="669" alt="image" src="https://github.com/user-attachments/assets/2100aa25-11d8-4300-b085-d24f68aa1e99" />
+
+> The parts!
+
+10:00 PM: Figured I should show a picture at this point. Here's the picture! What I think I'll end up doing to accomodate the wires is get a crimping kit from Amazon or something (my own money), and get custom length DuPont wires.
+
+<img width="1231" height="753" alt="image" src="https://github.com/user-attachments/assets/e2d21050-4561-4078-8605-a4b93366283a" />
+
+> The setup!
+
+
