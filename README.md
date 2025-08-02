@@ -1,6 +1,8 @@
 # SensorBox
 This is a Raspberry Pi Pico W powered temperature and humidity monitor. It connects online to Adafruit IO, and sends in the temperature and humidity that it gets from its DHT11 sensor every 15 seconds. It also has a 16x2 LCD display to display the temperature and humidity. This was originally supposed to be a carbon monoxide detector, but the MQ2 sensor I wanted to use just wouldn't work, and I ran out of time to debug it, so I had to just scrap it unfortunately. I do hope to add it back in at some point after this, but I couldn't get it debugged before the submission deadline. My idea for this came from looking through my bag o' parts and finding a bunch of sensors that I'd never used before.
 
+(Note for Highway reviewers: I use TinkerCAD, which _cannot_ export .STEP files, only .STL files. In the future, I'll learn and use Onshape, but I don't have much choice right now. Sorry!)
+
 ## Gallery
 
 <img width="1779" height="1101" alt="Untitled Sketch_bb" src="https://github.com/user-attachments/assets/81757463-1c7f-4ec3-bd8f-bb98ad43c9ca" />
@@ -10,6 +12,10 @@ This is a Raspberry Pi Pico W powered temperature and humidity monitor. It conne
 <img width="1231" height="753" alt="image" src="https://github.com/user-attachments/assets/0256e92e-99bf-4259-b8e0-0d38c5cce8f5" />
 
 > Setup!
+
+<img width="839" height="396" alt="image" src="https://github.com/user-attachments/assets/02ac58eb-a935-4eaa-b16c-1c8b9c2070ce" />
+
+> CAD!
 
 ## BOM
 
